@@ -1,8 +1,5 @@
 package demo;
 
-/**
- * @author Dhanendra Kumar
- */
 public class BasketWeightCalculator {
 
     private int totalWeight = 0;
